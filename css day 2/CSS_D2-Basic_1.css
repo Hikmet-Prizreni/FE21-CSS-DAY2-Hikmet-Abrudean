@@ -1,0 +1,39 @@
+div.container{
+    size: 800px; align-self: center;
+}
+p, li{
+    color: #707070;
+}
+h1{
+     text-align: center;
+     color: #DB0038;
+}
+h1, p{
+    text-align: center;
+}
+h2{
+    color: #3998A3;
+}
+h3{
+    color: #474747
+}
+div.hero{
+    background-color:#f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+span{ 
+    align:center;
+    color:#F4B400;
+    font-size: 25px;
+}
+footer{
+    align: center
+}
+body {
+    @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+}
