@@ -6,12 +6,12 @@ body {
 
 .hero {
     background-color: rgb(158, 135, 135);
-    height: 11em;
+    height: 15em;
 }
 
 .name {
     width: 40%;
-    font-size: 1.3em;
+    font-size: 1.5em;
     position: absolute;
     top: 10%;
     left: 15%
@@ -20,8 +20,7 @@ body {
 .logo {
     width: 30%;
     position: absolute;
-    top: 5%;
-    border: 5%;
+    top: 1.5em;
     right: 5%;
 }
 
